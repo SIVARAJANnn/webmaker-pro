@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "capturedOn": "2026-11-07",
+  "sources": [
+    {
+      "repository": "juliobsz/skills",
+      "url": "https://github.com/juliobsz/skills.git",
+      "directory": "juliobsz-skills",
+      "commit": "add880bd6ec9f5592a1482846fc0dd282c9161bc",
+      "license": "MIT",
+      "licenseFile": "LICENSE"
+    },
+    {
+      "repository": "ruucm/shadergradient",
+      "url": "https://github.com/ruucm/shadergradient.git",
+      "directory": "shadergradient",
+      "commit": "68bdd740037a11c639f8b91fd775949c71d718d0",
+      "license": "MIT",
+      "licenseFile": "README.md"
+    },
+    {
+      "repository": "collidingScopes/liquid-logo",
+      "url": "https://github.com/collidingScopes/liquid-logo.git",
+      "directory": "liquid-logo",
+      "commit": "c733c38a043009b873cb9a6062c0defa9c70ee7d",
+      "license": "MIT",
+      "licenseFile": "LICENSE.txt"
+    },
+    {
+      "repository": "pmndrs/react-three-fiber",
+      "url": "https://github.com/pmndrs/react-three-fiber.git",
+      "directory": "react-three-fiber",
+      "commit": "d74622ea8ed717f7212d7e19d65ff3e325508389",
+      "license": "MIT",
+      "licenseFile": "LICENSE"
+    },
+    {
+      "repository": "rdev/liquid-glass-react",
+      "url": "https://github.com/rdev/liquid-glass-react.git",
+      "directory": "liquid-glass-react",
+      "commit": "ac48eab18d1f7f444ae30002d240cae29c863a21",
+      "license": "MIT",
+      "licenseFile": "LICENSE"
+    },
+    {
+      "repository": "pmndrs/drei",
+      "url": "https://github.com/pmndrs/drei.git",
+      "directory": "drei",
+      "commit": "bf6f4addf47467d3885de272d94ca5127f6ef68f",
+      "license": "MIT",
+      "licenseFile": "LICENSE"
+    },
+    {
+      "repository": "donmccurdy/glTF-Transform",
+      "url": "https://github.com/donmccurdy/glTF-Transform.git",
+      "directory": "gltf-transform",
+      "commit": "8e2a94a2616d293c4b503d0fb6a4b42e6ec7c62f",
+      "license": "MIT",
+      "licenseFile": "LICENSE.md"
+    },
+    {
+      "repository": "pmndrs/gltfjsx",
+      "url": "https://github.com/pmndrs/gltfjsx.git",
+      "directory": "gltfjsx",
+      "commit": "f4fbfa2a19ffa7c05b1a93745da7b4a7abd497f4",
+      "license": "MIT",
+      "licenseFile": "LICENSE"
+    },
+    {
+      "repository": "google/model-viewer",
+      "url": "https://github.com/google/model-viewer.git",
+      "directory": "model-viewer",
+      "commit": "8146120186993a8e1557fdf31fcdba0f9b2df08b",
+      "license": "Apache-2.0",
+      "licenseFile": "LICENSE"
+    },
+    {
+      "repository": "pmndrs/react-postprocessing",
+      "url": "https://github.com/pmndrs/react-postprocessing.git",
+      "directory": "react-postprocessing",
+      "commit": "e07ef9a890c8a202a3b20eac0249032cff4e7805",
+      "license": "MIT",
+      "licenseFile": "LICENSE"
+    },
+    {
+      "repository": "pmndrs/react-three-next",
+      "url": "https://github.com/pmndrs/react-three-next.git",
+      "directory": "react-three-next",
+      "commit": "bb29a61949601e1c563688faf33a12d062ec3710",
+      "license": "MIT",
+      "licenseFile": "LICENSE"
+    }
+  ]
+}

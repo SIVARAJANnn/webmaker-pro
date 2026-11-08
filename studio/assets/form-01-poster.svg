@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 520" fill="none">
+  <defs><linearGradient id="shell" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffd084"/><stop offset="1" stop-color="#ad6c21"/></linearGradient>
+  <radialGradient id="cone"><stop stop-color="#666f77"/><stop offset="1" stop-color="#12171c"/></radialGradient></defs>
+  <ellipse cx="313" cy="431" rx="181" ry="24" fill="#0c1013" opacity=".42"/>
+  <path d="M185 145 249 90h176l23 16v257l-60 54Z" fill="url(#shell)"/>
+  <path d="m387 152 61-46v257l-61 54Z" fill="#965a20"/>
+  <rect x="174" y="135" width="224" height="282" rx="14" fill="#dda652"/>
+  <rect x="186" y="147" width="200" height="258" rx="10" fill="#22282e"/>
+  <circle cx="286" cy="214" r="28" fill="url(#cone)" stroke="#535b61" stroke-width="3"/>
+  <circle cx="286" cy="214" r="11" fill="#161b20"/>
+  <circle cx="286" cy="316" r="66" fill="#10151a" stroke="#596169" stroke-width="3"/>
+  <circle cx="286" cy="316" r="54" fill="url(#cone)" stroke="#353d43" stroke-width="2"/>
+  <circle cx="286" cy="316" r="22" fill="#272d33"/>
+  <circle cx="206" cy="383" r="3" fill="#f7bc61"/>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "product-showcase",
+      "name": "Form 01 product showcase",
+      "source": "Original Webmaker template",
+      "license": "CC0-1.0",
+      "framework": "Vite + React",
+      "skills": [
+        "webmaker",
+        "webmaker-reactthreefiber",
+        "webmaker-drei"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+vendor/
+*.tgz
+.checks/
+.studio/
+.shots/
+.DS_Store
+.agents/
+.claude/
+.env
+.env.*
+!.env.example
+*.log

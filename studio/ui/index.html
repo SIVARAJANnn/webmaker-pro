@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="webmaker-token" content="WEBMAKER_SESSION_TOKEN">
+  <meta name="theme-color" content="#10171b">
+  <title>Webmaker Studio</title>
+  <link rel="stylesheet" href="/studio.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="logo" href="/"><span class="brand-icon">W</span><span>Webmaker <em>Studio</em></span></a>
+    <div class="top-actions">
+      <label class="visually-hidden" for="projects">Saved projects</label>
+      <select id="projects"><option value="">Saved projects</option></select>
+      <button id="new-site" type="button">New website</button>
+    </div>
+  </header>
+  <p class="status" id="status" role="status" aria-live="polite" hidden></p>
+  <div class="status" id="reconnect" role="alert" hidden>Studio restarted. Reconnect to restore your brief or saved project. Copy any unsaved editor changes first. Reselect files that have not been uploaded. <button type="button" id="reconnect-button">Reconnect Studio</button></div>
+  <main id="app"></main>
+  <script type="module" src="/studio.js"></script>
+</body>
+</html>

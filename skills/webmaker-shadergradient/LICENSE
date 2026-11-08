@@ -1,0 +1,8 @@
+Upstream license declaration
+
+Source: https://github.com/ruucm/shadergradient
+Commit: 68bdd740037a11c639f8b91fd775949c71d718d0
+
+MIT © [ruucm](https://github.com/ruucm), [stone-skipper](https://github.com/stone-skipper)
+
+The root checkout does not include a standalone license text. This preserves the README declaration; packages/shadergradient/package.json also declares MIT.

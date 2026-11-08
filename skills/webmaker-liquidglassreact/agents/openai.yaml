@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-liquidglassreact"
+  short_description: "Refractive liquid glass surfaces for React websites"
+  default_prompt: "Use $webmaker-liquidglassreact to add a liquid glass panel to my React website."

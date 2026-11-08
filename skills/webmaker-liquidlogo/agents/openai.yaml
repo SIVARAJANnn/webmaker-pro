@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-liquidlogo"
+  short_description: "Liquid metal logo animations for websites"
+  default_prompt: "Use $webmaker-liquidlogo to animate my logo with a liquid metal effect."

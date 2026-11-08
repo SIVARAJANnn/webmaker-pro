@@ -1,0 +1,5 @@
+{
+  "form-01": { "name": "Form 01 · Product", "model": "form-01.glb", "poster": "form-01-poster.svg", "label": "Sample speaker model", "tags": ["product", "finishes"], "license": "CC0-1.0" },
+  "object-study": { "name": "Object Study · Portfolio", "model": "object-study.glb", "poster": "object-study-poster.svg", "label": "Sample sculpture", "tags": ["portfolio", "gallery"], "license": "CC0-1.0" },
+  "orbit-launch": { "name": "Orbit · Launch", "model": "orbit-launch.glb", "poster": "orbit-launch-poster.svg", "label": "Sample orbit sculpture", "tags": ["launch", "animation"], "license": "CC0-1.0" }
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "webmaker",
+  "version": "0.3.2",
+  "description": "Build and verify 3D websites with Webmaker Studio, portable skills, model tools, and editable starters.",
+  "author": {
+    "name": "Personal Webmaker toolkit"
+  },
+  "keywords": [
+    "websites",
+    "3d",
+    "webgl",
+    "react",
+    "design"
+  ]
+}

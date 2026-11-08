@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-gltfjsx"
+  short_description: "Generate React components from 3D models"
+  default_prompt: "Use $webmaker-gltfjsx to generate a React component from my model."

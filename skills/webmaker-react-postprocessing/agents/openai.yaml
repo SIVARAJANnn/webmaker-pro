@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-react-postprocessing"
+  short_description: "Add selective screen effects to 3D scenes"
+  default_prompt: "Use $webmaker-react-postprocessing to add selective bloom to my Fiber scene."

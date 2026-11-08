@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-shadergradient"
+  short_description: "Animated shader gradient backgrounds for websites"
+  default_prompt: "Use $webmaker-shadergradient to add an animated gradient to my website hero."

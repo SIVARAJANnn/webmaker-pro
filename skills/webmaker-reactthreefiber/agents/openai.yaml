@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-reactthreefiber"
+  short_description: "Interactive React and Three.js website scenes"
+  default_prompt: "Use $webmaker-reactthreefiber to add an interactive 3D scene to my React website."

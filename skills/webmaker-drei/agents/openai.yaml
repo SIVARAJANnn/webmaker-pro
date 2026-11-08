@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-drei"
+  short_description: "Reusable helpers for React Three Fiber"
+  default_prompt: "Use $webmaker-drei to add controls and lighting to a 3D scene."

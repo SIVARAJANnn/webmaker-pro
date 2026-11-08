@@ -1,0 +1,9 @@
+{
+  "name": "webmaker-model-viewer-profile",
+  "version": "0.2.0",
+  "private": true,
+  "dependencies": {
+    "@google/model-viewer": "4.4.0",
+    "three": "0.183.0"
+  }
+}

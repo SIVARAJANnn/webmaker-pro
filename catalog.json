@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "name": "webmaker",
+  "version": "0.3.2",
+  "skills": [
+    {
+      "name": "webmaker",
+      "command": "/webmaker",
+      "codexInvocation": "$webmaker",
+      "kind": "upstream-skill",
+      "repository": "juliobsz/skills",
+      "sourceDirectory": "vendor/juliobsz-skills",
+      "packages": []
+    },
+    {
+      "name": "webmaker-shadergradient",
+      "command": "/webmaker-shadergradient",
+      "codexInvocation": "$webmaker-shadergradient",
+      "kind": "library-wrapper",
+      "repository": "ruucm/shadergradient",
+      "sourceDirectory": "vendor/shadergradient",
+      "packages": [
+        "@shadergradient/react"
+      ]
+    },
+    {
+      "name": "webmaker-liquidlogo",
+      "command": "/webmaker-liquidlogo",
+      "codexInvocation": "$webmaker-liquidlogo",
+      "kind": "source-wrapper",
+      "repository": "collidingScopes/liquid-logo",
+      "sourceDirectory": "vendor/liquid-logo",
+      "packages": []
+    },
+    {
+      "name": "webmaker-reactthreefiber",
+      "command": "/webmaker-reactthreefiber",
+      "codexInvocation": "$webmaker-reactthreefiber",
+      "kind": "library-wrapper",
+      "repository": "pmndrs/react-three-fiber",
+      "sourceDirectory": "vendor/react-three-fiber",
+      "packages": [
+        "@react-three/fiber",
+        "three"
+      ]
+    },
+    {
+      "name": "webmaker-liquidglassreact",
+      "command": "/webmaker-liquidglassreact",
+      "codexInvocation": "$webmaker-liquidglassreact",
+      "kind": "library-wrapper",
+      "repository": "rdev/liquid-glass-react",
+      "sourceDirectory": "vendor/liquid-glass-react",
+      "packages": [
+        "liquid-glass-react"
+      ]
+    },
+    {
+      "name": "webmaker-drei",
+      "command": "/webmaker-drei",
+      "codexInvocation": "$webmaker-drei",
+      "kind": "library-wrapper",
+      "repository": "pmndrs/drei",
+      "sourceDirectory": "vendor/drei",
+      "packages": [
+        "@react-three/drei"
+      ]
+    },
+    {
+      "name": "webmaker-gltf-transform",
+      "command": "/webmaker-gltf-transform",
+      "codexInvocation": "$webmaker-gltf-transform",
+      "kind": "build-tool",
+      "repository": "donmccurdy/glTF-Transform",
+      "sourceDirectory": "vendor/gltf-transform",
+      "packages": [
+        "@gltf-transform/cli"
+      ]
+    },
+    {
+      "name": "webmaker-gltfjsx",
+      "command": "/webmaker-gltfjsx",
+      "codexInvocation": "$webmaker-gltfjsx",
+      "kind": "build-tool",
+      "repository": "pmndrs/gltfjsx",
+      "sourceDirectory": "vendor/gltfjsx",
+      "packages": [
+        "gltfjsx"
+      ]
+    },
+    {
+      "name": "webmaker-model-viewer",
+      "command": "/webmaker-model-viewer",
+      "codexInvocation": "$webmaker-model-viewer",
+      "kind": "library-wrapper",
+      "repository": "google/model-viewer",
+      "sourceDirectory": "vendor/model-viewer",
+      "packages": [
+        "@google/model-viewer",
+        "three"
+      ],
+      "dependencyProfile": "integrations/model-viewer"
+    },
+    {
+      "name": "webmaker-react-postprocessing",
+      "command": "/webmaker-react-postprocessing",
+      "codexInvocation": "$webmaker-react-postprocessing",
+      "kind": "library-wrapper",
+      "repository": "pmndrs/react-postprocessing",
+      "sourceDirectory": "vendor/react-postprocessing",
+      "packages": [
+        "@react-three/postprocessing"
+      ]
+    },
+    {
+      "name": "webmaker-react-three-next",
+      "command": "/webmaker-react-three-next",
+      "codexInvocation": "$webmaker-react-three-next",
+      "kind": "template-reference",
+      "repository": "pmndrs/react-three-next",
+      "sourceDirectory": "vendor/react-three-next",
+      "packages": []
+    }
+  ],
+  "templateRegistry": "templates/registry.json"
+}

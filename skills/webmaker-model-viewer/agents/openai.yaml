@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-model-viewer"
+  short_description: "Embed a 3D model in HTML or Astro"
+  default_prompt: "Use $webmaker-model-viewer to embed a standalone product viewer."

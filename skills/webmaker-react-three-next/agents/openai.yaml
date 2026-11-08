@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-react-three-next"
+  short_description: "Keep a shared 3D canvas across Next.js routes"
+  default_prompt: "Use $webmaker-react-three-next to design a persistent canvas for my Next.js site."

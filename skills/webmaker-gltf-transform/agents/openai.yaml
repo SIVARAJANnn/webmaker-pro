@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker-gltf-transform"
+  short_description: "Prepare and optimize website 3D models"
+  default_prompt: "Use $webmaker-gltf-transform to prepare a GLB for my website."

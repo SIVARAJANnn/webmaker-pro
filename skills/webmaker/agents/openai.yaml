@@ -1,0 +1,4 @@
+interface:
+  display_name: "/webmaker"
+  short_description: "Website design, motion, and visual quality checks"
+  default_prompt: "Use $webmaker to build a distinctive website for my project."
